@@ -1,5 +1,5 @@
 Project Title
- Cattle Breed Recognition and Owner prediction App, to predict Breed of cattle and owner details of stray cattle, all using the muzzle, front view and side view images.
+Cattle Breed Recognition and Owner prediction App, to predict Breed of cattle and owner details of stray cattle, all using the muzzle, front view and side view images.
 
 Getting Started
  Download the android project apk, code files and the training files, thereafter train on test data accordingly as per your choice(actually model files were heavy 
