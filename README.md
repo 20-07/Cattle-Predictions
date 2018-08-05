@@ -14,7 +14,7 @@ Prerequisites
 
 Distribution of files
 
- Transfer the python and php scrits to htdocs of xampp together with the complete weight files of models.
+ Transfer the python and php scripts to htdocs of xampp together with the complete weight files of models.
 
 Real Time Usage
 
